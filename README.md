@@ -8,7 +8,7 @@ In this project, I will analyze **K-Modes Clustering** to explore how user segme
 
 This segmentation analysis aims to support **advertising strategies** and **product recommendations** tailored to specific customer groups.
 
-Benefits:
+Goals:
 - Helps build **buyer/customer personas** → *personalized marketing*
 - Supports **targeted advertising strategies** (e.g., *Impulsive Young Professionals* or *Promo-Savvy Buyers*)
 
@@ -16,7 +16,7 @@ Benefits:
 
 This analysis focuses on how users interact with products and services on the platform.
 
-Benefits:
+Goals:
 - Understands **behavioral patterns** within each segment
 - Identifies **loyal customer segments** → Enables appropriate *promotions or special offers*
 
